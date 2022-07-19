@@ -627,29 +627,22 @@ Android开发核心知识点笔记-目录：
 ## 微信
 
 <div align="center">
-<img src="https://github.com/ThinkingHan/Android-Notes/blob/main/picture/VX.png?raw=true">
+<img src="https://github.com/ThinkingHan/Android-Notes/blob/main/picture/vx%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true">
 </div>
 
 ## QQ群
 
-Android开发交流QQ群：**723921453**  （备注一下GitHub，免得被认成打无良广告的）
-
-快捷加群方式：[点击此处加入群聊Android开发交流群](https://jq.qq.com/?_wv=1027&k=L8rw77sO)
-
-<div align="center">
-<img src="https://github.com/ThinkingHan/Android-Notes/blob/main/picture/Q%E7%BE%A4.png?raw=true">
-</div>
 
 >PS：
 >
->>平常很忙，找柠檬小姐姐领取就好了，别找我
+>>平常很忙，找小萌领取就好了，别找我
 
 ## 微信公众号
 
-**阿风的架构笔记**
+**小尘Android专栏**
 
 <div align="center">
-<img src="https://github.com/ThinkingHan/Android-Notes/blob/main/picture/%E5%85%AC%E4%BC%97%E5%8F%B7.png?raw=true">
+<img src="https://github.com/ThinkingHan/Android-Notes/blob/main/picture/%E5%85%AC%E4%BC%97%E5%8F%B75.png?raw=true">
 </div>
 
 # 版权声明
