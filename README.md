@@ -23,9 +23,9 @@ Android开发核心知识点笔记-目录：
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | **Java** | **Android** | **Android<br>扩展** | **性能优化** | **开源库<br>源码分析** | **Kotlin** | **设计模式** | **Gradle** | **计算机<br>网络基础** | **C++** |
 | [:coffee:](#Java-知识点汇总) | [:iphone:](#Android-知识点汇总) | [:vibration_mode:](#Android-扩展知识点汇总) | [:gear:](#性能优化知识点汇总) | [:mag:](#Android-开源库源码分析) | [:lollipop:](#Kotlin知识点汇总) |  [:hammer_and_wrench:](#设计模式汇总) | [:notebook_with_decorative_cover:](#Gradle知识点汇总) |  [:computer:](#计算机网络基础) | [:copyright:](#C知识点汇总) |
-| :a: | :b:	| :u7121: | :u7121:	| :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
-| **常见面试<br>算法题** | **Jetpack<br>compose** | :u7121:	| :u7121: | :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
-| [:memo:](#常见面试算法题汇总) | [:memo:](#Jetpack-compose知识点汇总) | :u7121: | :u7121: | :u7121: | :u7121: | :u7121:	| :u7121:	 | :u7121:	| :u7121: |
+| :a: | :b:	| :c: | :u7121:	| :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
+| **常见面试<br>算法题** | **Jetpack<br>compose** | :Framework:	| :u7121: | :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
+| [:memo:](#常见面试算法题汇总) | [:memo:](#Jetpack-compose知识点汇总) | [:memo:](#Framework知识点汇总) | :u7121: | :u7121: | :u7121: | :u7121:	| :u7121:	 | :u7121:	| :u7121: |
 
 
 ## Java 知识点汇总
@@ -229,6 +229,39 @@ Android开发核心知识点笔记-目录：
    * [类加载器](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Android扩展知识点.md#类加载器)
      * [双亲委托模式](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Android扩展知识点.md#双亲委托模式)
      * [DexPathList](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Android扩展知识点.md#dexpathlist)
+
+## Framework知识点汇总
+
+ * [Handler](https://qr01.cn/EsZlED)
+     * [Handler机制实现原理(一)宏观理论分析与Message源码分析](https://qr01.cn/EsZlED)
+     * [Handler机制实现原理（二）MessageQueue的源码分析](https://qr01.cn/EsZlED)
+     * [Handler机制实现原理（三）Looper的源码分析](https://qr01.cn/EsZlED)
+     * [Handler机制实现原理（四）handler的源码分析](https://qr01.cn/EsZlED)
+     * [Handler机制实现原理（五）总结](https://qr01.cn/EsZlED)
+     * [Binder](https://qr01.cn/EsZlED)
+       * [Binder原理（一）学习Binder前必须要了解的知识点](https://qr01.cn/EsZlED)
+       * [Binder原理（二）ServiceManager中的Binder机制](https://qr01.cn/EsZlED)
+       * [Binder原理（三）系统服务的注册过程](https://qr01.cn/EsZlED)
+       * [Binder原理（四）ServiceManager的启动过程](https://qr01.cn/EsZlED)
+       * [Binder原理（五）系统服务的获取过程](https://qr01.cn/EsZlED)
+       * [Binder原理（六）Java Binder的初始化](https://qr01.cn/EsZlED)
+       * [Binder原理（七）Java Binder中系统服务的注册过程](https://qr01.cn/EsZlED)
+     * [Zygote](https://qr01.cn/EsZlED)
+       * [Zygote(一)：Android系统的启动过程及Zygote的启动过程](https://qr01.cn/EsZlED)
+       * [Zygote（二）：应用进程的启动过程](https://qr01.cn/EsZlED)
+     * [AMS](https://qr01.cn/EsZlED)
+       * [AMS源码分析(一)Activity生命周期管理](https://qr01.cn/EsZlED)
+       * [AMS源码分析(三)AMS中Activity栈管理详解](https://qr01.cn/EsZlED)
+     * [PMS](https://qr01.cn/EsZlED)
+       * [深入PMS源码（一）—— PMS的启动过程和执行流程](https://qr01.cn/EsZlED)
+       * [深入PMS源码（二）—— APK的安装和卸载源码分析](https://qr01.cn/EsZlED)
+       * [深入PMS源码（三）—— PMS中intent-filter的匹配架构](https://qr01.cn/EsZlED)
+     * [WMS](https://qr01.cn/EsZlED)
+       * [WMS（一）：WMS的诞生](https://qr01.cn/EsZlED)
+       * [WMS（二）：WMS的重要成员和Window的添加过程](https://qr01.cn/EsZlED)
+       * [WMS（三）：Window的删除过程](https://qr01.cn/EsZlED)
+
+
 ## 性能优化知识点汇总
 
    * [启动优化](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/性能优化知识点汇总.md#启动优化)
