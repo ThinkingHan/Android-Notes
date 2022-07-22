@@ -20,9 +20,9 @@ Android开发核心知识点笔记-目录：
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | **Java** | **Android** | **Android<br>扩展** | **性能优化** | **开源库<br>源码分析** | **Kotlin** | **设计模式** | **Gradle** | **计算机<br>网络基础** | **C++** |
 | [:coffee:](#Java-知识点汇总) | [:iphone:](#Android-知识点汇总) | [:vibration_mode:](#Android-扩展知识点汇总) | [:gear:](#性能优化知识点汇总) | [:mag:](#Android-开源库源码分析) | [:lollipop:](#Kotlin知识点汇总) |  [:hammer_and_wrench:](#设计模式汇总) | [:notebook_with_decorative_cover:](#Gradle知识点汇总) |  [:computer:](#计算机网络基础) | [:copyright:](#C知识点汇总) |
-| :a: | :b:	| :u7121: | :7121:	| :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
+| :a: | :b:	| :u7121: | :u7121:	| :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
 | **常见面试<br>算法题** | **Jetpack<br>compose** | :u7121:	| :u7121: | :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
-| [:memo:](#常见面试算法题汇总) | [:memo:](#Jetpack compose知识点汇总) | :u7121: | :u7121: | :u7121: | :u7121: | :u7121:	| :u7121:	 | :u7121:	| :u7121: |
+| [:memo:](#常见面试算法题汇总) | [:memo:](#Jetpack-compose知识点汇总) | :u7121: | :u7121: | :u7121: | :u7121: | :u7121:	| :u7121:	 | :u7121:	| :u7121: |
 
 
 ## Java 知识点汇总
@@ -618,6 +618,17 @@ Android开发核心知识点笔记-目录：
      * [反转整数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/常见面试算法题汇总.md#反转整数)
      * [LRU缓存策略](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/常见面试算法题汇总.md#lru缓存策略)
 
+## Jetpack-compose知识点汇总
+
+* [入门](https://qr01.cn/E8GD0t)
+
+* [基础组件](https://qr01.cn/E8GD0t)
+
+* [布局组件设计](https://qr01.cn/E8GD0t)
+
+* [Compose底层技术原理](https://qr01.cn/E8GD0t)
+
+* [实战案例](https://qr01.cn/E8GD0t)
 
 # Contanct Me
 如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上微信或QQ群领取
