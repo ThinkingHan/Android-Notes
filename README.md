@@ -12,7 +12,7 @@ Emm……辛辛苦苦种树……确定不来个Star鼓励一下？
 >>
 >> >如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[**微信或QQ群**](#contanct-me)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
-<div align="center">
+>> ><div align="center">
 <img src="https://github.com/ThinkingHan/Android-Notes/blob/main/picture/imgziyuan.png?raw=true">
 </div>
 
@@ -23,7 +23,7 @@ Android开发核心知识点笔记-目录：
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | **Java** | **Android** | **Android<br>扩展** | **性能优化** | **开源库<br>源码分析** | **Kotlin** | **设计模式** | **Gradle** | **计算机<br>网络基础** | **C++** |
 | [:coffee:](#Java-知识点汇总) | [:iphone:](#Android-知识点汇总) | [:vibration_mode:](#Android-扩展知识点汇总) | [:gear:](#性能优化知识点汇总) | [:mag:](#Android-开源库源码分析) | [:lollipop:](#Kotlin知识点汇总) |  [:hammer_and_wrench:](#设计模式汇总) | [:notebook_with_decorative_cover:](#Gradle知识点汇总) |  [:computer:](#计算机网络基础) | [:copyright:](#C知识点汇总) |
-| :a: | :b:	| :c: | :u7121:	| :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
+| :one: | :two:	| :three: | :u7121:	| :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
 | **常见面试<br>算法题** | **Jetpack<br>compose** | **Framework** | :u7121: | :u7121: | :u7121: | :u7121: | :u7121:	| :u7121: | :u7121: |
 | [:memo:](#常见面试算法题汇总) | [:memo:](#Jetpack-compose知识点汇总) | [:memo:](#Framework知识点汇总) | :u7121: | :u7121: | :u7121: | :u7121:	| :u7121:	 | :u7121:	| :u7121: |
 
