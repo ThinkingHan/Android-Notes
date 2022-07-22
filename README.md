@@ -12,6 +12,9 @@ Emm……辛辛苦苦种树……确定不来个Star鼓励一下？
 >>
 >> >如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[**微信或QQ群**](#contanct-me)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
+<div align="center">
+<img src="https://github.com/ThinkingHan/Android-Notes/blob/main/picture/imgziyuan.png?raw=true">
+</div>
 
 # Android-Notes
 Android开发核心知识点笔记-目录： 
