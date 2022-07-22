@@ -410,55 +410,36 @@ Android开发核心知识点笔记-目录：
      * [简单示例](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Android开源库源码分析.md#简单示例-3)
      * [源码分析](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Android开源库源码分析.md#源码分析-3)
 ## Kotlin知识点汇总
-  * [对象](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#对象)
-  * [类](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#类)
-  * [继承](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#继承)
-  * [变量](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#变量)
-  * [常量](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#常量)
-  * [静态常量](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#静态常量)
-  * [定义方法](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#定义方法)
-  * [重载方法](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#重载方法)
-  * [基本数据类型](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#基本数据类型)
-  * [比较类型](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#比较类型)
-  * [转换符](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#转换符)
-  * [字符串比较](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#字符串比较)
-  * [数组](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#数组)
-  * [循环](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#循环)
-  * [角标循环](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#角标循环)
-  * [高级循环](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#高级循环)
-  * [判断器](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#判断器)
-  * [构造函数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#构造函数)
-  * [类创建](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#类创建)
-  * [私有化 set 方法](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#私有化-set-方法)
-  * [私有化 get 方法](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#私有化-get-方法)
-  * [枚举](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#枚举)
-  * [接口](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#接口)
-  * [匿名内部类](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#匿名内部类)
-  * [内部类](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#内部类)
-  * [内部类访问外部类同名变量](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#内部类访问外部类同名变量)
-  * [抽象类](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#抽象类)
-  * [静态变量和方法](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#静态变量和方法)
-  * [可变参数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#可变参数)
-  * [泛型](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#泛型)
-  * [构造代码块](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#构造代码块)
-  * [静态代码块](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#静态代码块)
-  * [方法代码块](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#方法代码块)
-  * [可见修饰符](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#可见修饰符)
-  * [无需 findViewById](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#无需-findViewById)
-  * [Lambda](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#Lambda)
-  * [函数变量](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#函数变量)
-  * [空安全](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#空安全)
-  * [方法支持添加默认参数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#方法支持添加默认参数)
-  * [类方法扩展](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#类方法扩展)
-  * [运算符重载](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#运算符重载)
-  * [扩展函数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#扩展函数)
-    * [let 函数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#let-函数)
-    * [with 函数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#with-函数)
-    * [run 函数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#run-函数)
-    * [apply 函数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#apply-函数)
-    * [also 函数](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#also-函数)
-    * [总结](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#总结)
-  * [协程](https://github.com/ThinkingHan/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#协程)
+
+ * [基础类型](https://qr01.cn/B189pA)
+
+* [运算符和表达式](https://qr01.cn/B189pA)
+
+* [流程控制语句(顺序,分支,循环)](https://qr01.cn/B189pA) 
+
+* [数组和集合](https://qr01.cn/B189pA)
+
+* [函数和lambda表达式](https://qr01.cn/B189pA)
+
+* [面向对象](https://qr01.cn/B189pA)
+
+* [异常](https://qr01.cn/B189pA)
+
+* [泛型](https://qr01.cn/B189pA)
+
+* [注解](https://qr01.cn/B189pA)
+
+* [Kotlin和Java互相调用](https://qr01.cn/B189pA)
+
+* [Kotlin的DSL与自定义DSL](https://qr01.cn/B189pA)
+
+* [Kotlin协程应用及实践](https://qr01.cn/B189pA)
+
+* [Kotlin协程原理及源码解析之线程](https://qr01.cn/B189pA)
+
+* [Flow从应用到原理](https://qr01.cn/B189pA)
+
+* [kotlin实战开发案例](https://qr01.cn/B189pA)
 
 ## 设计模式汇总 
 
